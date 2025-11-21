@@ -108,7 +108,7 @@ index.html
 
 ## 📣 Créditos
 
-* 👨‍💻 **Desenvolvimento:** Alan Oliveira (OliveiraAlann)
+* 👨‍💻 **Desenvolvimento:** Rodrigo Leite (RodrigoLDC)
 * 🧩 **Conceito e Mecânicas:** Criadas do zero
 * 🎮 **Inspiração:** Jogos cooperativos como *It Takes Two* e experiências coop de plataforma
 
