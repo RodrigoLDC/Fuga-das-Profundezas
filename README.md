@@ -43,7 +43,7 @@ Isso permite que qualquer pessoa abra o projeto diretamente no Construct 3 para 
 
 ## 🌐 Jogue Agora (GitHub Pages)
 
-🔗 https://oliveiraalann.github.io/a-fuga-das-profundezas/
+🔗 https://rodrigoldc.github.io/Fuga-das-Profundezas/
 
 Assim que o GitHub Pages processar a publicação, seu jogo ficará disponível nesse link.
 
